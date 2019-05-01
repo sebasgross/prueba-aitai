@@ -9,7 +9,4 @@ export default ()=> <Switch>
 <Route exact path="/" component={Index} />
 <Route path="/product/create" component={ProductForm} />
 <Route path="/product/all" component={ProductList} />
-
-
-
  </Switch>
